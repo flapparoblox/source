@@ -1,4 +1,5 @@
 -- i made this for this random dawg called atjuju on discord and juju =/ he was pretty strange and i still made this esp script for him anyway tho since he was asking so much
+-- just take this open source i honestly dont care that much its a project i spent 20 minutes on yall can have this
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
